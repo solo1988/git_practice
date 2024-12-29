@@ -6,4 +6,4 @@
 2. *One asterisk Italicizes*
 
 
-[Link test] (#what-is-markdown)
+[Link test](#what-is-markdown)
