@@ -11,5 +11,5 @@
 ![screen](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - [x] First task
-- [] Second task
-- [] Third task
+- [ ] Second task
+- [ ] Third task
